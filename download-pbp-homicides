@@ -1,0 +1,2 @@
+#!/bin/bash 
+wget "https://docs.google.com/spreadsheets/d/1AKlUnrm6CXb1Tf7xN2KGu1B6BB0OISqbeq88xFdgbos/export?format=csv&gid=996990613" -O "pbp-homicides.csv"
